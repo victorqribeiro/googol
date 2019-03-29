@@ -4,6 +4,8 @@
 
 ![screenshot](screenshot.png)
 
+Play it [here](https://victorribeiro.com/googolGame)
+
 ## About
 
 After watching [this video](https://www.youtube.com/watch?v=OeJobV4jJG0), that tells you a good time to quit gambling, I decided to create a game to test the theory. 
