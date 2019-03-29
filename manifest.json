@@ -1,7 +1,7 @@
 {
-  "name": " ",
-  "short_name": " ",
-  "description": " ",
+  "name": "Googol Game",
+  "short_name": "Googol",
+  "description": "You should learn whent to quit!",
   "start_url": "index.html",
   "display": "standalone",
   "orientation": "portrait",
