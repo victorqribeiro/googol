@@ -10,7 +10,7 @@ Play it [here](https://victorribeiro.com/googolGame)
 
 After watching [this video](https://www.youtube.com/watch?v=OeJobV4jJG0), that tells you a good time to quit gambling, I decided to create a game to test the theory. 
 
-This game is very simple: given N numbers, that could have the value 0 to googol (10 ** 100 | the number 1 with 100 zeros), you choose a number. You can go home with that number (if you think that is the biggest one) or you could choose another from the options. You last choice is your number! If you got a big number and decided to pick another one, you can't go back to the one you already had. When you think you have the biggest number, click "I'm done" and the game will answer if you have the biggest one or not.
+This game is very simple: given N numbers, that could have the value 0 to [googol](https://en.wikipedia.org/wiki/Googol) (10 ** 100 | the number 1 with 100 zeros), you choose a number. You can go home with that number (if you think that is the biggest one) or you could choose another from the options. You last choice is your number! If you got a big number and decided to pick another one, you can't go back to the one you already had. When you think you have the biggest number, click "I'm done" and the game will answer if you have the biggest one or not.
 
 
 ## The experiment
