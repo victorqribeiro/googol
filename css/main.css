@@ -6,6 +6,13 @@ html, body{
 	flex-direction: column;
 	align-items: center;
 	justify-content: space-between;
+
+}
+
+*{
+	font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
+	font-style: normal; 
+	font-variant: normal; 
 }
 
 #main {
