@@ -6,18 +6,20 @@ let main,
 		n = 50; /* number of tiles on the game */
 
 const getRandomBigNumber = function(){
-	let s = "";
+	let s = ""
+	let dot = 0
 	const r = Math.floor(Math.random() * 101);
-	let i = 0;
-	while(i < r){
+	for(let i = 0; i < r; i++){
 		const n = Math.floor( Math.random() * 10 );
-		if( n && i < r ){
-			s = n+s;
-			i++;
-			if( i % 3 == 0 && i < r){	
-				s = "."+s;
-			}
+		s = n+s;
+		dot++
+		if( dot == 3 && i < r-1){
+			s = "."+s
+			dot = 0
 		}
+	}
+	while(s[0] == "0" || s[0] == "."){
+		s = s.substring(1)
 	}
 	return s.length ? s : "0";
 }
